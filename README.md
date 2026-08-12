@@ -64,4 +64,8 @@
 
 ## 许可
 
-本仓库代码及相关文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可。引用时请注明作者及 DOI。
+本仓库代码及相关文档采用 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International（CC BY-NC-ND 4.0）许可。署名、非商业、禁止演绎。引用时请注明作者及 DOI。
+
+---
+
+——老陈与AI的深夜实验室 发布，请笑纳——
